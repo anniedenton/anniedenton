@@ -18,7 +18,6 @@ I'm Annie, a fourth year <b>Computer Science</b> major at the University of Wash
 
 * 💡  <b>I have experience in:</b> DevOps engineering, full-stack web development
 * 🌱 <b>I'm currently working on:</b> web projects with my student paper, <b><a href="https://www.dailyuw.com">The Daily UW</a></b>
-* 📰 <b>I want to learn more about:</b> data journalism, digital democracy, information security
 * 💬 <b>Languages & skills:</b> Java, Python, R, Javascript, HTML/CSS
 
 <br>
